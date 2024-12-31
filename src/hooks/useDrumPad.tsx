@@ -1,6 +1,6 @@
 import { useCallback, useEffect } from "react";
 import { useAudioPlayer } from "./useAudioPlayer";
-import type { DrumPad } from "../types/drumPad";
+import { DrumPad } from "../types";
 
 export function useDrumPad(
   pad: DrumPad,
