@@ -1,4 +1,4 @@
-import { HeaderProps } from "../types";
+import { HeaderProps } from "../../types";
 import { ThemeToggle } from "../UI/ThemeToggle";
 
 export function Header({ isDark, onToggleTheme }: HeaderProps) {

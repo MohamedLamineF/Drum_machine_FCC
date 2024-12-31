@@ -1,5 +1,5 @@
-import { ThemeToggleProps } from "../types";
 import { SunMoon } from "lucide-react";
+import { ThemeToggleProps } from "../../types";
 
 export function ThemeToggle({ isDark, onToggle }: ThemeToggleProps) {
   return (
