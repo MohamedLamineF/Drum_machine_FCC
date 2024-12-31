@@ -1,4 +1,4 @@
-import { DrumPad } from "./types";
+import { DrumPad } from "../types";
 
 export const drumPads: DrumPad[] = [
   {
